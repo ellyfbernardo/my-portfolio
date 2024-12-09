@@ -10,6 +10,7 @@ export default function Home() {
         Repositório em construção...
       </h1>
       <Image
+      className={styles.gif}
         src={gif}
         alt="working man gif"
       />
