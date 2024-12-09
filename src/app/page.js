@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.page}>
 
       <h1>
-        Repositório em construção...
+        Portfólio em construção...
       </h1>
       <Image
       className={styles.gif}
