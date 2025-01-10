@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ellyfbernardo.dev.br
+
+# Sitemaps
+Sitemap: https://ellyfbernardo.dev.br/sitemap.xml
